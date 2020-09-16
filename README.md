@@ -3,8 +3,8 @@
 <h1 align="center">SocialFish</h1>
 
 #### MAINTAINERS
-- **Alisson Moretto**, Twitter: [@HackTeachz][tw-alisson], GitHub: [@HackTeachz][git-alisson]
-- **Vandré Augusto**, Twitter: [@HackTeachz][tw-drink], GitHub: [@HackTeachz][git-drink]
+- **HackTeachz**, Twitter: [@HackTeachz], GitHub: [@HackTeachz]
+
 
 Twitter: [@HackTeachz]
 
@@ -26,6 +26,5 @@ Taken from [LICENSE](LICENSE).
 
 [//]: # (links references)
 
-[tw-alisson]: <https://twitter.com/HackTeachz>
-[git-alisson]: <https://github.com/HackTeachz>
+[HackTeachz]: <https://twitter.com/HackTeachz>
 
