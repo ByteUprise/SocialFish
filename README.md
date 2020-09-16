@@ -6,8 +6,7 @@
 - **Alisson Moretto**, Twitter: [@HackTeachz][tw-alisson], GitHub: [@HackTeachz][git-alisson]
 - **Vandré Augusto**, Twitter: [@HackTeachz][tw-drink], GitHub: [@HackTeachz][git-drink]
 
-#### DOCS
-- **Fernando Bellincanta**, Twitter: [@HackTeachz][tw-fernando], GitHub: [@HackTeachz][git-fernando]
+Twitter: [@HackTeachz]
 
 ### DISCLAIMER
 
